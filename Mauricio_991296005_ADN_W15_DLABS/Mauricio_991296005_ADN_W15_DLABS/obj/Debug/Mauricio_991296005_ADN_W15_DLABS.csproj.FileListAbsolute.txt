@@ -1,0 +1,10 @@
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\Mauricio_991296005_ADN_W15_DLABS.exe.config
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\obj\Debug\Mauricio_991296005_ADN_W15_DLABS.csprojResolveAssemblyReference.cache
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\Mauricio_991296005_ADN_W15_DLABS.exe
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\Mauricio_991296005_ADN_W15_DLABS.pdb
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\EntityFramework.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\EntityFramework.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\obj\Debug\Mauricio_991296005_ADN_W15_DLABS.exe
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\Mauricio_991296005_ADN_W15_DLABS\Mauricio_991296005_ADN_W15_DLABS\obj\Debug\Mauricio_991296005_ADN_W15_DLABS.pdb
